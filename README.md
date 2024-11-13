@@ -1,1 +1,1 @@
-# A very basic Django Blog app
+## A very basic Django Blog app
